@@ -1,0 +1,26 @@
+[
+    {
+      "id": "Ford",
+      "name": "Ford Mustang",
+      "price": 9.95,
+      "image": "/uploads/Mustang.png",
+      "description": "Unlimited low, low clouds for one low, low price!",
+      "product_url": "/"
+    },
+    {
+      "id": "Porche",
+      "name": "Porche 911",
+      "price": 9.95,
+      "image": "/uploads/Porche.png",
+      "description": "Unlimited low, low clouds for one low, low price!",
+      "product_url": "/"
+    },
+    {
+      "id": "Tesla",
+      "name": "Tesla S",
+      "price": 9.95,
+      "image": "/uploads/Red-Tesla-PNG-Image.png",
+      "description": "Unlimited low, low clouds for one low, low price!",
+      "product_url": "/"
+    }
+]
